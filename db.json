@@ -1,10 +1,7 @@
 {
     "result": "success",
     "content": [
-      {
-        "latitude": "23.0033434",
-        "longitude": "-13.4343433434",
-      }
+
     ],
     "paginator": [],
     "error_des": "",
