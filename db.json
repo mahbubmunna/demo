@@ -6,7 +6,7 @@
          "error_code": 0,
          "images_prefix": "http://localhost:8000/storage/"
      },
-    "registration": {
+    "register": {
         "result": "success",
         "content": {
             "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5NDhlYzY0NC0zODQ1LTQ3YzYtYjhhMS02OTY3ZDE2OWVjZGIiLCJqdGkiOiJlNzVkZGJjOTBjZWVkYTI1MGRkYTRlYTg4YmI5MWU1ZmUwZjNjNDliN2NkZWU0NmFiOGUwYzg0NzVkNGY1MjRmOTE2MDI1ZjYwN2M0NGUxNSIsImlhdCI6MTYzMzY5NDI2NC42ODU4MTQsIm5iZiI6MTYzMzY5NDI2NC42ODU4MjgsImV4cCI6MTY2NTIzMDI2NC42MzAyMDIsInN1YiI6ImUwZTMzZTRjLTEwN2QtNDU2ZS1iODVjLTVlZTgxNThlODAwOSIsInNjb3BlcyI6W119.SJRb1IM340KLELyE1XpugCGd3tkt1JFu3No8-IKOwX43SwMJFLQ9OE5Y76EykU6ZY9gKSQPl33dKPS-pltSWMu3rUn4cQRdrWVgIrWnnG42y2BYinDqZTP-UCNVJToIC96PEbllLNWaF8LqguYON1h6TP0K68FfmTldbWIjAvvCofS9trqJS-TUMpmzCGdiXTfv3-msJeYCMCmpIomG0ldhmrUSjxKsdJ0qlfoAgN72EY7B7UwGlbtnyvc95JZJU1Xfx3h-wm157mdXVwXaUTzsYSsveI-Nbg9aDUu5sgH61IiMgh24h0nvWfuT4Y16qQdtb6r9v-aJmp-r8k1rEEMZdJOs7cFmLApBHBJgQXjb7pvanDSGsi8yE6EtyFb22aYRd4EMoZrOc5ja9lViYjVQvq0BUkMWwSpcgcB1h6M_wNcz4S3E0M2Owu78DlyEcJjeW2xfEculIp5v2cThwN2yR2CJT61VJ1IdaShvOYhwEoVZ6DbEQTQHC7p3aoXrnKCKWpFJSWvG4F0EyzDYKyWwqfmqq9JiNqT4nJSs6yka-L2TXUisQBi2x7w6fFHxo650HVsbJcIy9DHRqW28A0u5rncDgB3-cImNYQHl1BbyL73Q3lbDV49Bfebv-b3wGkaCY5CFcJDRaKp3UzQ303lVnOmjZvut3GAMzV3lno3M",
@@ -29,7 +29,7 @@
         "error_code": 0,
         "images_prefix": "http://localhost:8000/storage/"
     },
-    "registration_error_1": {
+    "register_error_1": {
         "result": "error",
         "content": null,
         "error_des": "The w 9 form field is required.",
@@ -44,7 +44,7 @@
         "error_code": 1,
         "date": "2021-10-01"
     },
-    "registration_error_2": {
+    "register_error_2": {
         "result": "error",
         "content": null,
         "error_des": "Email is already taken",
