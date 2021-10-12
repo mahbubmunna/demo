@@ -29,6 +29,29 @@
         "error_code": 0,
         "images_prefix": "http://localhost:8000/storage/"
     },
+    "login": {
+        "result": "success",
+        "content": {
+            "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5NDhlYzY0NC0zODQ1LTQ3YzYtYjhhMS02OTY3ZDE2OWVjZGIiLCJqdGkiOiJlNzVkZGJjOTBjZWVkYTI1MGRkYTRlYTg4YmI5MWU1ZmUwZjNjNDliN2NkZWU0NmFiOGUwYzg0NzVkNGY1MjRmOTE2MDI1ZjYwN2M0NGUxNSIsImlhdCI6MTYzMzY5NDI2NC42ODU4MTQsIm5iZiI6MTYzMzY5NDI2NC42ODU4MjgsImV4cCI6MTY2NTIzMDI2NC42MzAyMDIsInN1YiI6ImUwZTMzZTRjLTEwN2QtNDU2ZS1iODVjLTVlZTgxNThlODAwOSIsInNjb3BlcyI6W119.SJRb1IM340KLELyE1XpugCGd3tkt1JFu3No8-IKOwX43SwMJFLQ9OE5Y76EykU6ZY9gKSQPl33dKPS-pltSWMu3rUn4cQRdrWVgIrWnnG42y2BYinDqZTP-UCNVJToIC96PEbllLNWaF8LqguYON1h6TP0K68FfmTldbWIjAvvCofS9trqJS-TUMpmzCGdiXTfv3-msJeYCMCmpIomG0ldhmrUSjxKsdJ0qlfoAgN72EY7B7UwGlbtnyvc95JZJU1Xfx3h-wm157mdXVwXaUTzsYSsveI-Nbg9aDUu5sgH61IiMgh24h0nvWfuT4Y16qQdtb6r9v-aJmp-r8k1rEEMZdJOs7cFmLApBHBJgQXjb7pvanDSGsi8yE6EtyFb22aYRd4EMoZrOc5ja9lViYjVQvq0BUkMWwSpcgcB1h6M_wNcz4S3E0M2Owu78DlyEcJjeW2xfEculIp5v2cThwN2yR2CJT61VJ1IdaShvOYhwEoVZ6DbEQTQHC7p3aoXrnKCKWpFJSWvG4F0EyzDYKyWwqfmqq9JiNqT4nJSs6yka-L2TXUisQBi2x7w6fFHxo650HVsbJcIy9DHRqW28A0u5rncDgB3-cImNYQHl1BbyL73Q3lbDV49Bfebv-b3wGkaCY5CFcJDRaKp3UzQ303lVnOmjZvut3GAMzV3lno3M",
+            "expires_in": "2022-10-08 11:57:45",
+            "refresh_token": "def50200dc27907aa91123da098c75f94d5dcfe0e43e17529998728cb3deafaee87fc69b3c079c3baf3dba63f09273bdc58c2b307d6540e36802e6bf4d7e0d4b20fbb18e6b83a9a379e21f30f7ab053d2b82b907fa4c36981d60dbca9bbcb14b99c72a024c4dfac21e16905b4a8c4af086bf467f60fe0bcb85b8cb2f13e697f802185617f4c4fce8d288cc964560f62ae961837cb23dac6e90f03c6ea8c74a382d69c8236ae6ee2ce484988644f936180540079977d53b53a518b779581a460f1d17acdf358f30b0c33227b15c3601cbe50f11586cf8f9b124a752964876e17f8c37d7d2e423e4f0985a5433386b12277c493b3fe59386a230434c8fba5446ba7ed70a6a2758ef2ba65c662ec874ddee7f5b29aa361b382705669cfce475a6839eaa4e3515fa9fa5be0e4023ebf035004426640f97712a3acce76ccdcae17cad494180f6f9d1661402f29200b2fba736f092ce79ab6e5d3e70f8d85502e38db02f1d1c01c1922713d65c1394e15801c28f1683b3f3453c378ef442b63f47aefed1551ba4ba993f82fa8c1a8fecea6714fd7efd4bf892a48d39953d5a93c9a12ca8577532ed0e557042",
+            "user": {
+                "name": "test",
+                "email": "mohan+driver1@gmail.com",
+                "phone_number": "9646546542",
+                "id": "e0e33e4c-107d-456e-b85c-5ee8158e8009",
+                "updated_at": "2021-10-08T11:57:44.000000Z",
+                "created_at": "2021-10-08T11:57:44.000000Z",
+                "w_9_form": "drivers/e0e33e4c-107d-456e-b85c-5ee8158e8009/w_9form/vImIeS59Oj5G0ImaqZiLJklHh3K8iIq626Fb74l3.pdf",
+                "questionnaire": "drivers/e0e33e4c-107d-456e-b85c-5ee8158e8009/questionnaire/tkOG5Oja4rCDzmL5F0TuaIbWI7I55R2cOHUJzvjs.pdf",
+                "total_earnings": 0
+            }
+        },
+        "paginator": [],
+        "error_des": "",
+        "error_code": 0,
+        "images_prefix": "http://localhost:8000/storage/"
+    },
     "register_error_1": {
         "result": "error",
         "content": null,
